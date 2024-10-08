@@ -1,1 +1,1 @@
-"documento creado en 'principal'" 
+"documento editado en 'secundaria'" 
